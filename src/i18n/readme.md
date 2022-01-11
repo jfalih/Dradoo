@@ -1,0 +1,1 @@
+This holds translation files for different languages in which you’re using your application.
