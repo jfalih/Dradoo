@@ -52,7 +52,7 @@ const HomeScreen = () => {
                 <Text style={{
                   color:'#fff',
                   fontSize:24,
-                }}>{`Ayo jelajahi dunia\nbersama kami`}</Text>
+                }}>{`Ayo jelajahi dunia\nbersama kam`}</Text>
               </View>
               <View style={{
                 width: 50,
